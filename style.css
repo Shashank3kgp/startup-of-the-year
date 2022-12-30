@@ -1,0 +1,34 @@
+body,html{
+    background: url(https://thumbs.dreamstime.com/b/startup-management-concept-businessman-concrete-interior-looking-business-sketch-146635962.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height:100%;
+    width:100%;
+    font-family: 'DynaPuff', cursive;
+}
+hr{
+  border-width:3px;
+  border-color:rgb(12, 126, 218);
+  max-width:65px;
+  margin:auto;
+  margin-bottom: 1rem;
+}
+.buffer{
+    height:3rem;
+}
+h1{
+    color:rgb(15, 15, 15);
+    font-weight: 800;
+}
+.btn-xl{
+    padding:15px;
+    border-radius:300px;
+    text-transform: uppercase;
+    transition: all 1s;
+}
+.btn-xl:hover{
+    background-color: rgb(127, 179, 207);
+    transform: scale(1.02);
+}
